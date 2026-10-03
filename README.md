@@ -70,7 +70,7 @@ Dehradun, a city in the foothills of the Himalayas, was chosen as the region of 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BlackJack-14/TempPrediction.git
+   git clone https://github.com/byRudra/TempPrediction.git
    cd TempPrediction
    ```
 
